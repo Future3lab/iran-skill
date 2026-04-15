@@ -212,7 +212,7 @@ Most needed: **Persian/Arabic sources** · Israeli domestic politics · Quantita
 
 ### Acknowledgments / 致谢
 
-Methodology / 方法论: [女娲 · Skill造](https://github.com/alchaincyf/nuwa-skill) by [@alchaincyf](https://github.com/alchaincyf)
+Methodology / 方法论: [女娲 · Skill](https://github.com/alchaincyf/nuwa-skill) by [@alchaincyf](https://github.com/alchaincyf)
 
 Analysis informed by / 分析框架源自: Sadjadpour · Takeyh · Nasr · Vaez · Mousavian · Parsi · Maloney · Albright · Mead · Lebovic · Janis — and Ferdowsi, a poet from a thousand years ago whose *Shahnameh* still shapes how Iranians understand the world.
 
